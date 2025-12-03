@@ -29,7 +29,7 @@ Kitty love you...
 
 ## Install and Run
 ```bash
-git clone https://github.com/theFr3Y/Kitty.git
+git clone https://github.com/FreyKernel/Kitty.git
 cd Kitty
 go run kitty.go
 ````
