@@ -24,8 +24,8 @@
 </pre>
 
 ## About Kitty
-Kitty can encrypt or even decrypt your texts in a very cute way.</br>
-Kitty love you :D
+Kitty can encrypt or even decrypt your texts in a cute way.</br>
+Kitty love you...
 
 ## Install and Run
 ```bash
@@ -33,9 +33,4 @@ git clone https://github.com/theFr3Y/Kitty.git
 cd Kitty
 go run kitty.go
 ````
-
-## Terminal Tested:
-- Command Prompt(CMD)
-- Bash (kali linux, MintOs)
-- Termux
 
